@@ -1,7 +1,7 @@
 ![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=F7F7F7&width=435&lines=Hi+%F0%9F%91%8B%2C+I'm+M%C3%BCcahid+AYD%C4%B0N+)
 
 <div style="display: flex; align-items: center; gap: 20px;">
-  <img align="right" height="150" src="https://c.tenor.com/_dJ2R7W26E0AAAAd/tenor.gif" />
+  <img align="right" style="float: right; width: 150px; height: auto;" src="https://c.tenor.com/_dJ2R7W26E0AAAAd/tenor.gif" />
 </div>
 
 ### 🔧 Technologies & Tools
