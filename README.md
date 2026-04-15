@@ -1,7 +1,5 @@
 ![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=F7F7F7&width=435&lines=Hi+%F0%9F%91%8B%2C+I'm+M%C3%BCcahid+AYD%C4%B0N+)
 ### 🛠️ Tech Stack
-<img align="right" width="250" src="https://c.tenor.com/_dJ2R7W26E0AAAAd/tenor.gif" />
-
 <table>
   <tr>
     <td align="center" width="160"><b>Languages</b></td>
